@@ -1,2 +1,2 @@
 # pics
-📷 Gallerie de https://theo.pics/
+📷 Galerie de https://theo.pics/
